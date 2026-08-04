@@ -1,8 +1,8 @@
 class FuzzyTable < Formula
   desc "Interactive terminal UI for fuzzy-picking a row from a CSV"
   homepage "https://github.com/connorwyatt/fuzzy-table"
-  url "https://github.com/connorwyatt/fuzzy-table/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "16644ae144d61cb6bdd5b5ec51e80d6f1c2a5cadc8c0799870cc144539aa8e2d"
+  url "https://github.com/connorwyatt/fuzzy-table/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "8d25b5e82e337e07150056ee2cd5571e68b60ad4a7cc00a7e6e164d6e1e99b61"
 
   depends_on "zig" => :build
 
